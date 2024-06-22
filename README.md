@@ -10,10 +10,11 @@ Neave.TV Recoded is a 2024 web video channel based on the 2006 massive layout of
 <a href="https://danbytronic.github.io/neave.tv-recoded/">Web version</a>
 
 # Features
-* Menu selection of videos along with the categories
+* Selecting channels along with the videos
 * Adjusting the size of the screen by pressing <kbd>F</kbd>
 * Changing the volume by <kbd>+</kbd> or <kbd>-</kbd>
 * Pausing the video by pressing <kbd>space</kbd>
+* Brings back all of the removed content with the current ones
 
 # Download
 You can find the latest stable version here:
