@@ -18,7 +18,7 @@ Neave.TV Recoded is a 2024 web video channel based on the 2006 massive layout of
 
 ### Requirements
 * Flash Player 32 or higher
-* Windows 10 or newer
+* Windows 10 or newer; macOS Ventura or newer
 * A monitor with a minimum resolution of 760 x 500 (4:3)
 
 ### Download
