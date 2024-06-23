@@ -9,14 +9,19 @@ Neave.TV Recoded is a 2024 web video channel based on the 2006 massive layout of
 
 <a href="https://danbytronic.github.io/neave.tv-recoded/">Visit the homepage</a>
 
-# Features
+### Features
 * Selecting channels along with the videos
 * Adjusting the size of the screen by pressing <kbd>F</kbd>
 * Changing the volume by <kbd>+</kbd> or <kbd>-</kbd>
 * Pausing the video by pressing <kbd>space</kbd>
 * Brings back all of the removed content with the current ones
 
-# Download
+### Requirements
+* Flash Player 32 or higher
+* Windows 10 or newer
+* A monitor with a minimum resolution of 760 x 500 (4:3)
+
+### Download
 You can find the latest stable version here:
 
 [![Downloads](https://img.shields.io/badge/Downloads-1.05%20GB-yellow?style=for-the-badge&logo=github&link=https://github.com/Danbytronic/neave.tv-recoded/releases/latest)](https://github.com/Danbytronic/neave.tv-recoded/releases/latest)
