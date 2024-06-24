@@ -32,4 +32,4 @@ You can find the latest stable version here:
 
 ---
 
-*If there's any problems, submit an <a href="https://github.com/Danbytronic/neave.tv-recoded/issues">issue</a> or <a href="https://github.com/Danbytronic/neave.tv-recoded/pulls">pull request</a> to above repositories.*
+*If there's any problems, submit an <a href="https://github.com/Danbytronic/neave.tv-recoded/issues">issue</a> or <a href="https://github.com/Danbytronic/neave.tv-recoded/pulls">pull request</a> to above repositories. Neave.TV Recoded is not affiliated with Pual Neave or Neave Interactive.*
