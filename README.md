@@ -28,7 +28,7 @@ Neave.TV Recoded is a 2024 web video channel  based on the 2006 massive layout r
 ### Download
 You can find the latest stable version here:
 
-[![Downloads](https://img.shields.io/badge/Downloads-1.05%20GB-yellow?style=for-the-badge&logo=github&link=https://github.com/Danbytronic/neave.tv-recoded/releases/latest)](https://github.com/Danbytronic/neave.tv-recoded/releases/latest)
+[![GitHub All Releases](https://img.shields.io/github/downloads/Danbytronic/neave.tv-recoded/total?style=for-the-badge&color=yellow&logo=github)](https://github.com/Danbytronic/neave.tv-recoded/releases/latest)
 
 ---
 
