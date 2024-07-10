@@ -5,7 +5,7 @@ Neave.TV Recoded is a 2024 web video channel  based on the 2006 massive layout r
 
 <i>Originally</i> Neave.TV by <i>Paul Neave</i> at neave.com
 
-[![GitHub release](https://img.shields.io/github/release/Danbytronic/neave.tv-recoded?include_prereleases=&sort=semver&color=green)](https://github.com/Danbytronic/neave.tv-recoded/releases/)
+[![GitHub release](https://img.shields.io/github/release/Neave-TV-Recoded/neave.tv-recoded?include_prereleases=&sort=semver&color=green)](https://github.com/Danbytronic/neave.tv-recoded/releases/)
 
 <a href="https://danbytronic.github.io/neave.tv-recoded/">Visit the homepage</a>
 
