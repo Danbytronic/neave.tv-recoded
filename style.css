@@ -1,6 +1,6 @@
 body {
  margin: 0;
- background-color: #1b1b1b;
+ background-color: #0c0c0c;
  color: white;
  font-family: Verdana;
 }
@@ -15,6 +15,7 @@ body {
  padding: 1em;
  max-width: 920px;
  width: 100%;
+ background: black;
 }
 
 h1 {
